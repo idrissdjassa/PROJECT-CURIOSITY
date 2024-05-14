@@ -424,7 +424,24 @@ section {
 }
 .resume .resume-item h5 {
   font-size: 16px;
-  background: #e4edf9;
+  background: #a5890b;
+  padding: 5px 15px;
+  display: inline-block;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.resume .resume-item h6 {
+  font-size: 16px;
+  background: #999999;
+  padding: 5px 15px;
+  display: inline-block;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+.resume .resume-item h7 {
+  font-size: 16px;
+  background: #97611f;
   padding: 5px 15px;
   display: inline-block;
   font-weight: 600;
